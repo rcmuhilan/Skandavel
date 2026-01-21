@@ -30,7 +30,7 @@ Click any task below to navigate directly to its GitHub repository:
 
 **Muhilan**   
 
-- GitHub Profile: **[Link](https://www.linkedin.com/in/rcmuhilan)**
+- Linkedin Profile: **[Link](https://www.linkedin.com/in/rcmuhilan)**
 
 ---
 
