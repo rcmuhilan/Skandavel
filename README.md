@@ -29,8 +29,7 @@ Click any task below to navigate directly to its GitHub repository:
 ## 👤 Author
 
 **Muhilan**   
-
-- Linkedin Profile: **[Link](https://www.linkedin.com/in/rcmuhilan)**
+--- **[Linkedin Profile](https://www.linkedin.com/in/rcmuhilan)**
 
 ---
 
