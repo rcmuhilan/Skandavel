@@ -29,7 +29,9 @@ Click any task below to navigate directly to its GitHub repository:
 
 ## 👤 Author
 
-**Muhilan** --- *[Linkedin Profile](https://www.linkedin.com/in/rcmuhilan)*
+**Muhilan**
+* Developer @ [Skandavel Webtech](https://www.linkedin.com/company/skandavel)*
+*--- [Linkedin Profile](https://www.linkedin.com/in/rcmuhilan/)*
 
 ---
 
