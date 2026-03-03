@@ -21,6 +21,7 @@ Click any task below to navigate directly to its GitHub repository:
 - 🔹 **[Task 003](https://github.com/rcmuhilan/003_Task)**
 - 🔹 **[Task 004](https://github.com/rcmuhilan/004_Task)**
 - 🔹 **[Task 005](https://github.com/rcmuhilan/005_Task)**
+- 🔹 **[Task 006](https://github.com/rcmuhilan/006_Task)**
 
 > Each task repository contains its own README with task objectives, implementation details, and usage instructions.
 
